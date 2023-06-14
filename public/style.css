@@ -1,0 +1,31 @@
+nav{
+    text-align: center;
+    background-color: #8b4513;
+    color: white;
+}
+input{
+    margin-right: 10px;
+}
+.save{
+    background-color: blue;
+    color: white;
+    width: 150px;
+}
+.hasil{
+    border: solid black 4px;
+    border-radius: 10px;
+    width: 250px;
+    padding: 5px;
+    margin: 15px;
+}
+.delete{
+    background: red;
+    color: white;
+    width: 100px;
+}
+.editData{
+    background:  green;
+    color: white;
+    width: 100px;
+    margin: 2px;
+}
